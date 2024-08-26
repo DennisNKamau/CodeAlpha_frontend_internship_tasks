@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aesthetic Music Player</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="container-h3"><h3>Music Player Project</h3></div>
+      <h1>Build A Music Player</h1>
+      <section class="info-section">
+        <p>
+          An aesthetic music player with basic playback functionalities.
+          Inspired by modern music streaming interfaces :D.
+        </p>
+        <a
+          href="https://github.com/DennisNKamau/CodeAlpha_frontend_internship_tasks"
+          class="btn-github"
+          target="_blank"
+          >View on GitHub</a
+        >
+      </section>
+
+      <div class="music-container">
+        <div class="music-player">
+          <div class="album-cover">
+            <img id="album-cover-img" src="" alt="Album Cover" />
+          </div>
+          <div class="song-info">
+            <h2 id="song-title" class="song-title"></h2>
+            <p id="artist-name" class="artist"></p>
+          </div>
+          <div class="progress-bar">
+            <div class="progress"></div>
+          </div>
+          <div class="controls">
+            <button id="prev" class="control-btn">&#9664;</button>
+            <button id="play" class="control-btn">&#9658;</button>
+            <button id="next" class="control-btn">&#9654;</button>
+          </div>
+        </div>
+      </div>
+      <div class="playlist-container">
+        <ul id="playlist" class="playlist">
+          <!-- Playlist items will be dynamically inserted here -->
+        </ul>
+      </div>
+    </div>
+    <hr />
+    <footer>
+      <p>&copy; 2024 Dennis Kamau</p>
+    </footer>
+    <script src="./src/script.js"></script>
+  </body>
+</html>
