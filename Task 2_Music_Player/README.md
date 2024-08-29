@@ -2,7 +2,7 @@
 
 This project is a stylish music player with essential playback functionalities, designed with a modern aesthetic. It features a sleek interface, dynamic album cover display, and interactive controls, inspired by contemporary music streaming apps.
 
-![Demo Image](./demo/music.jpeg)
+![Demo Image](./demo/music_player.jpeg)
 ## Features
 
 - **Responsive Design:** The player adapts to various screen sizes, ensuring usability across desktops, tablets, and mobile devices.
