@@ -12,7 +12,7 @@ This project is a responsive image gallery that allows users to view and navigat
 - **Hover Effect:** The captions are revealed when the user hovers over the image, providing a sleek and interactive experience.
 - **Footer:** The footer is styled consistently with the rest of the design, providing a professional finish.
 
-## Technologies Used
+## Technologies Used 
 
 - **HTML5**: For the structure of the page.
 - **CSS3**: For styling, including custom styles for the gallery and captions.
