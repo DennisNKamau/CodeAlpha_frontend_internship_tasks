@@ -1,6 +1,6 @@
 # CodeAlpha Frontend Internship Projects
 
-This repository contains a collection of projects developed during the frontend internship at CodeAlpha. The projects demonstrate various frontend development skills using HTML, CSS, Javascript and React. 
+This repository contains a collection of projects developed during the frontend internship at CodeAlpha. The projects demonstrate various frontend development skills using HTML, CSS, Javascript, and React. 
 
 ## Table of Contents
 
